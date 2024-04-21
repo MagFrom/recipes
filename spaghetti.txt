@@ -6,4 +6,5 @@ cook the meat
 strain the spaghetti
 add the spaghetti to the sauce
 add the meat to the spaghetti 
+mix everything together
 enjoy
